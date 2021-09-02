@@ -1,0 +1,22 @@
+div, button, h2, h3{
+	padding: 0;
+	margin: 0;
+	border: 0;
+}
+
+h2, h3{
+	font-size: 2rem;
+}
+
+button{
+	margin: 15px 0 0 0;
+
+	width: 80px;
+	height: 80px;
+	
+	border-radius: 100%;
+	
+	color: #282c34;
+	font-size: 1.4rem;
+	font-weight: bold;
+}
